@@ -6,7 +6,7 @@ CloudFlare でも可能ということを知り、導入検証を行いました
 
 ## アーキテクチャー
 
-[アーキテクチャー図](./architecture/echo-cloudflare.drawio.png)
+![アーキテクチャー図](./architecture/echo-cloudflare.drawio.png)
 
 ## コマンド
 
