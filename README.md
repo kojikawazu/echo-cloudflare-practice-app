@@ -4,13 +4,17 @@ Go/EchoのバックエンドAPI を AWS App Runner や AWS ECS などでクラ�
 更に ACM や Route53 を使い、SSL化やカスタムドメイン化を行ってきましたが、
 CloudFlare でも可能ということを知り、導入検証を行いました。
 
-# コマンド
+## アーキテクチャー
+
+[アーキテクチャー図](./architecture/echo-cloudflare.drawio.png)
+
+## コマンド
 
 以下ファイルに記載しました。
 
 [コマンド集](./manuals/commands.md)
 
-# マニュアル
+## マニュアル
 
 以下ファイルにCloudflareの導入手順書を記載しました。
 
